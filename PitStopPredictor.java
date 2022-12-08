@@ -1,7 +1,7 @@
 public class PitStopPredictor {
 
     public static void main(String[] args) {
-
+        //change values or change to var with input
         double currentLapTime = 48.0;
         double competitorLapTime = 49.5;
         double tireWear = 0.3;
